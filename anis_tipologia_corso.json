@@ -1,12 +1,4 @@
 ﻿[
-{"programme_type_code":"M1","programme_type_name":"Master di Primo Livello"},
-{"programme_type_code":"M2","programme_type_name":"Master di Secondo Livello"},
-{"programme_type_code":"TU","programme_type_name":"Laurea a Ciclo Unico (DM 509/99)"},
-{"programme_type_code":"DR","programme_type_name":"Dottorato di Ricerca"},
-{"programme_type_code":"LV","programme_type_name":"Laurea Vecchio Ordinamento"},
-{"programme_type_code":"SA","programme_type_name":"Scuola di Giornalismo, Altra Scuole di Specializzazione Non Medica Vecchio Ordinamento"},
-{"programme_type_code":"SP","programme_type_name":"Scuola di Specializzazione Psicologia"},
-{"programme_type_code":"SS","programme_type_name":"Scuola di Specializzazione Sanitaria - Area Servizi Clinici"},
 {"programme_type_code":"LM","programme_type_name":"Laurea Magistrale Ciclo Unico (DM 270/04)"},
 {"programme_type_code":"LS","programme_type_name":"Laurea Specialistica (DM 509/99)"},
 {"programme_type_code":"SD","programme_type_name":"Scuola di Specializzazione Sanitaria - Area Medica"},
@@ -19,5 +11,13 @@
 {"programme_type_code":"SL","programme_type_name":"Scuola di Specializzazione Professioni Legali"},
 {"programme_type_code":"SQ","programme_type_name":"Scuola di Specializzazione Psicologia (DM 50/2019)"},
 {"programme_type_code":"SR","programme_type_name":"Scuola di Specializzazione Ricerca"},
-{"programme_type_code":"SV","programme_type_name":"Scuola di Specializzazione Veterinaria"}
+{"programme_type_code":"SV","programme_type_name":"Scuola di Specializzazione Veterinaria"},
+{"programme_type_code":"DR","programme_type_name":"Dottorato di Ricerca"},
+{"programme_type_code":"LV","programme_type_name":"Laurea Vecchio Ordinamento"},
+{"programme_type_code":"SA","programme_type_name":"Scuola di Giornalismo, Altra Scuole di Specializzazione Non Medica Vecchio Ordinamento"},
+{"programme_type_code":"SP","programme_type_name":"Scuola di Specializzazione Psicologia"},
+{"programme_type_code":"SS","programme_type_name":"Scuola di Specializzazione Sanitaria - Area Servizi Clinici"},
+{"programme_type_code":"M1","programme_type_name":"Master di Primo Livello"},
+{"programme_type_code":"M2","programme_type_name":"Master di Secondo Livello"},
+{"programme_type_code":"TU","programme_type_name":"Laurea a Ciclo Unico (DM 509/99)"}
 ]
