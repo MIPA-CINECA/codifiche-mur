@@ -1,5 +1,5 @@
 INSTITUTE_CODE;INSTITUTE_NAME;INSTITUTE_TYPE;FLAG_TELEMATIC;
-01;Università Politecnica delle Marche di Ancona;1;0;
+01;Università Politecnica delle Marche di Ancona - MOD;1;0;
 02;Università degli studi di Bari - MOD;1;0;
-XX;Nuova Università 1;1;0;
-XY;Nuova Università 2;1;0;
+XX;\"Nuova\" Università 1;1;0;
+XY;\"Nuova\" \"Università 2\";1;0;
